@@ -1,4 +1,4 @@
-#BogoStalin Sort
+# BogoStalin Sort
 
 This sorting algorithm was inspired by Stalin Sort, with a Bogosort twist. In
 the spirit of communism, everyone is equal. So therefore everyone is equally
